@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e643160e-567d-4d75-bd5c-da4e7b59f0ff)![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20XzyanQi%20Github&fontSize=40)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20XzyanQi%20Github&fontSize=40)
 <h1 align="center">Hi, I'm Ihsan! 👋</h1>
 <p align="center">A passionate UI Designer, React Developer, and Blockchain Enthusiast 🚀</p>
 

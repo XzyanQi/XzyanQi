@@ -31,7 +31,6 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=XzyanQi&show_icons=true&theme=radical" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=XzyanQi&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XzyanQi&layout=compact&theme=radical" />
 </div>
 
 ---

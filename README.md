@@ -30,9 +30,10 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=XzyanQi&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=XzyanQi&theme=radical" />
 </div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
 

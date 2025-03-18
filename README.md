@@ -1,5 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40)
-
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20XzyanQi%20Github&fontSize=40)
 <h1 align="center">Hi, I'm Ihsan! 👋</h1>
 <p align="center">A passionate UI Designer, React Developer, and Blockchain Enthusiast 🚀</p>
 
@@ -35,13 +34,9 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XzyanQi&layout=compact&theme=radical)
 
 ---
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/faqihihsan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-React-blue?style=for-the-badge&logo=react)](https://YOUR_PORTFOLIO_LINK)
 
-🔥 **Let's build something great together!** 🚀
 

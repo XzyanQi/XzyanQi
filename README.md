@@ -1,16 +1,46 @@
-## Hi there 👋
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40)
 
-<!--
-**XzyanQi/XzyanQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Ihsan! 👋</h1>
+<p align="center">A passionate UI Designer, React Developer, and Blockchain Enthusiast 🚀</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me:
+- 🎓 Informatics Engineering Student at Universitas Muhammadiyah Bandung (6th Semester)
+- 💡 Experienced in **UI/UX Design, Frontend Development, and Blockchain**
+- 🔥 Currently learning **Microsoft Azure & Machine Learning** via **elevAIte with Dicoding**
+- 🏆 Participating in **Coding Camp by DBS Foundation 2025** (Machine Learning Engineer Track)
+- 🎯 Building **portfolio website using React** and working on **Ionic Angular project**
+- ✨ Experienced in **Writing, Translate, Ionic Angular**
+
+---
+
+### 🚀 Tech Stack & Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=radical" />
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/faqihihsan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-React-blue?style=for-the-badge&logo=react)](https://YOUR_PORTFOLIO_LINK)
+
+🔥 **Let's build something great together!** 🚀
+

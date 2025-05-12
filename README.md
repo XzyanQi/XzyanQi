@@ -7,11 +7,11 @@
 
 ### 🧑‍💻 About Me
 - 🎓 6th Semester Informatics Engineering Student — *Universitas Muhammadiyah Bandung*
-- 🧠 Passionate in **UI/UX Design, Frontend Development & Blockchain**
-- 🚀 Currently learning **Microsoft Azure & Machine Learning** via `elevAIte x Dicoding`
+- 💡 Experienced in **UI/UX Design, Frontend Development**
+- 🔥 Currently learning **Microsoft Azure & Machine Learning** via **elevAIte with Dicoding**
 - 🏅 Participant of **Coding Camp by DBS Foundation 2025** (Machine Learning Engineer Track)
-- 💻 Building **React Portfolio Website** & developing a project using **Ionic Angular**
-- ✍️ Also experienced in **Technical Writing, Translation, and Ionic-based Frontend**
+- 🎯 Building **portfolio website using React** and working on **Ionic Angular project**
+- ✨ Experienced in **Writing, Translate, Ionic Angular**
 
 ---
 

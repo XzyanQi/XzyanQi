@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 6th Semester Informatics Engineering Student — *Universitas Muhammadiyah Bandung*
+- 🎓 Fresh Graduate Informatics Engineering Student — *Universitas Muhammadiyah Bandung*
 - 💡 Experienced in **UI/UX Design, Frontend Development**
 - 🔥 Currently learning **Microsoft Azure & Machine Learning** via **elevAIte with Dicoding**
 - 🏅 Participant of **Coding Camp by DBS Foundation 2025** (Machine Learning Engineer Track)
